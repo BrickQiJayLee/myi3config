@@ -1,0 +1,176 @@
+/bin/sh: ff-theme-util: 未找到命令
+
+(clipit:9735): Gtk-WARNING **: 16:18:51.500: 无法在模块路径中找到主题引擎：“adwaita”，
+conky: desktop window (569) is root window
+conky: window type - override
+conky: drawing to created window (0x1400001)
+conky: drawing to double buffer
+conky: forked to background, pid is 9777
+
+(nitrogen:9738): Gtk-WARNING **: 16:18:51.527: Unable to locate theme engine in module_path: "adwaita",
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+conky: desktop window (569) is root window
+conky: window type - override
+conky: drawing to created window (0x2000001)
+conky: drawing to double buffer
+conky: forked to background, pid is 9820
+
+
+(nitrogen:9738): Gtk-WARNING **: 16:18:51.673: Unable to locate theme engine in module_path: "adwaita",
+[9932:9932:1208/161852.019268:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+[9745:10037:1208/161852.079667:ERROR:bus.cc(396)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+
+(rhythmbox:9743): Rhythmbox-WARNING **: 16:18:52.239: Unable to grab media player keys: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SettingsDaemon.MediaKeys was not provided by any .service files
+[9745:9745:1208/161852.665738:ERROR:gpu_process_transport_factory.cc(967)] Lost UI shared context.
+[7:14:1208/161852.676336:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+[9745:9745:1208/161855.928503:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+
+(google-chrome:9745): LIBDBUSMENU-GLIB-WARNING **: 16:18:55.929: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+[10395:10395:1208/161937.726382:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(google-chrome:9745): LIBDBUSMENU-GLIB-WARNING **: 16:19:37.765: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[10644:10644:1208/161949.362495:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+[10596:10743:1208/161949.408146:ERROR:bus.cc(396)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[10596:10596:1208/161949.973080:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+
+(google-chrome:10596): LIBDBUSMENU-GLIB-WARNING **: 16:19:49.973: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+[10596:10596:1208/161949.977354:ERROR:gpu_process_transport_factory.cc(967)] Lost UI shared context.
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[10596:10596:1208/163121.380109:ERROR:textfield.cc(1777)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:35:09.881: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:35:09.910: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:37:25.076: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:37:25.096: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+Your 'order' array is empty. Please fix your config.
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:366] ERROR: stdin: received EOF
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:490] ERROR: Child (pid: 11508) unexpectedly exited with status 1
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:37:49.035: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:37:49.057: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+Your 'order' array is empty. Please fix your config.
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:366] ERROR: stdin: received EOF
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:490] ERROR: Child (pid: 11544) unexpectedly exited with status 1
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:37:58.206: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[11671:11671:1208/163907.180996:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(google-chrome:10596): LIBDBUSMENU-GLIB-WARNING **: 16:39:08.398: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+[11860:11860:1208/163915.049531:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+[11812:11959:1208/163915.091930:ERROR:bus.cc(396)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[11812:11812:1208/163915.653747:ERROR:gpu_process_transport_factory.cc(967)] Lost UI shared context.
+[11812:11812:1208/163916.462621:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+
+(google-chrome:11812): LIBDBUSMENU-GLIB-WARNING **: 16:39:16.465: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:43:08.838: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+/usr/bin/dmenu_recency:行61: -s: 未找到命令
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:52:00.890: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:52:00.986: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[11812:11840:1208/165227.897012:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+[11812:11840:1208/165228.578356:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:53:59.174: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:53:59.194: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:08.466: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:09.111: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:09.250: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:09.297: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:09.393: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:09.449: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(lxappearance:13600): Gtk-WARNING **: 16:54:11.429: 无法在模块路径中找到主题引擎：“adwaita”，
+Exiting due to signal.
+
+(lxappearance:13600): Gtk-WARNING **: 16:54:15.039: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(clipit:9735): Gtk-WARNING **: 16:54:19.063: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(lxappearance:13600): Gtk-WARNING **: 16:54:19.073: 无法在模块路径中找到主题引擎：“adwaita”，
+Exiting due to signal.
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:21.384: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:21.400: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(rhythmbox:9743): Gtk-CRITICAL **: 16:54:23.664: _gtk_css_image_get_concrete_size: assertion 'default_width > 0' failed
+Exiting due to signal.
+Gdk-Message: 16:54:23.670: volumeicon: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 16:54:23.670: polkit-gnome-authentication-agent-1: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+clipit: Fatal IO error 11 (资源暂时不可用) on X server :0.
+Gdk-Message: 16:54:23.670: nm-applet: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+XIO:  fatal IO error 11 (资源暂时不可用) on X server ":0"
+      after 74699 requests (74697 known processed) with 0 events remaining.
+Gdk-Message: 16:54:23.673: rhythmbox: Fatal IO error 104 (连接被对方重设) on X server :0.
+
+XIO:  fatal IO error 11 (资源暂时不可用) on X server ":0"
+      after 176063 requests (176061 known processed) with 0 events remaining.
+Gdk-Message: 16:54:23.674: tilix: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+Gdk-Message: 16:54:23.675: pamac-tray: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+[11812:11812:1208/165423.675590:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[11860:11860:1208/165423.676176:ERROR:x11_util.cc(104)] X IO error received (X server probably went away)

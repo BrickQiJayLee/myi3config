@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rhythmdb-playlists>
+  <playlist name="&#x8BC4;&#x7EA7;&#x6700;&#x9AD8;" show-browser="true" browser-position="196" search-type="search-match" type="automatic" sort-key="Rating" sort-direction="1">
+    <conjunction>
+      <equals prop="type">song</equals>
+      <subquery>
+        <conjunction>
+          <greater prop="rating">4.000000</greater>
+        </conjunction>
+      </subquery>
+    </conjunction>
+  </playlist>
+  <playlist name="&#x6700;&#x8FD1;&#x64AD;&#x653E;" show-browser="true" browser-position="196" search-type="search-match" type="automatic" sort-key="LastPlayed" sort-direction="1">
+    <conjunction>
+      <equals prop="type">song</equals>
+      <subquery>
+        <conjunction>
+          <current-time-within prop="last-played">604800</current-time-within>
+        </conjunction>
+      </subquery>
+    </conjunction>
+  </playlist>
+  <playlist name="&#x6700;&#x8FD1;&#x65B0;&#x52A0;" show-browser="true" browser-position="196" search-type="search-match" type="automatic" sort-key="FirstSeen" sort-direction="1">
+    <conjunction>
+      <equals prop="type">song</equals>
+      <subquery>
+        <conjunction>
+          <current-time-within prop="first-seen">604800</current-time-within>
+        </conjunction>
+      </subquery>
+    </conjunction>
+  </playlist>
+  <playlist name="Edisk" show-browser="true" browser-position="189" search-type="search-match" type="static"/>
+  <playlist name="&#x64AD;&#x653E;&#x961F;&#x5217;" show-browser="false" browser-position="180" search-type="search-match" type="queue"/>
+</rhythmdb-playlists>

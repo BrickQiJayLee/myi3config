@@ -1,0 +1,608 @@
+
+(clipit:13834): Gtk-WARNING **: 16:54:28.926: 无法在模块路径中找到主题引擎：“adwaita”，
+/bin/sh: ff-theme-util: 未找到命令
+
+(nitrogen:13835): Gtk-WARNING **: 16:54:28.942: Unable to locate theme engine in module_path: "adwaita",
+conky: desktop window (569) is root window
+conky: window type - override
+conky: drawing to created window (0x1a00001)
+conky: drawing to double buffer
+conky: forked to background, pid is 13890
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+conky: desktop window (569) is root window
+conky: window type - override
+conky: drawing to created window (0x2400001)
+conky: drawing to double buffer
+conky: forked to background, pid is 13920
+
+(nitrogen:13835): Gtk-WARNING **: 16:54:29.056: Unable to locate theme engine in module_path: "adwaita",
+
+[14038:14038:1208/165429.406207:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+[13843:14138:1208/165429.490222:ERROR:bus.cc(396)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+
+(rhythmbox:13841): Rhythmbox-WARNING **: 16:54:29.581: Unable to grab media player keys: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SettingsDaemon.MediaKeys was not provided by any .service files
+[13843:13843:1208/165430.053184:ERROR:gpu_process_transport_factory.cc(967)] Lost UI shared context.
+[7:14:1208/165430.068216:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+[13843:13843:1208/165437.867870:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+
+(google-chrome:13843): LIBDBUSMENU-GLIB-WARNING **: 16:54:37.868: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+[13843:13843:1208/170208.367959:ERROR:textfield.cc(1777)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+Rofi is unsure what to show.
+Please specify the mode you want to show.
+
+    rofi -show {mode}
+
+The following modi are enabled:
+ * window
+ * run
+ * ssh
+
+The following can be enabled:
+ * windowcd
+ * drun
+ * combi
+ * keys
+
+To activate a mode, add it to the list of modi in the modi setting.
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+/bin/sh: --: 无效的选项
+用法：	/bin/sh [GNU 长选项] [选项] ...
+	/bin/sh [GNU 长选项] [选项] 脚本文件 ...
+GNU 长选项:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell 选项:
+	-irsD 或 -c <命令> 或 -O <shopt 选项>		(仅适合调用)
+	-abefhkmnptuvxBCHP 或 -o <选项>
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+/bin/sh: 第 0 行:exec: --: 无效选项
+exec: 用法:exec [-cl] [-a 名称] [命令 [参数 ...]] [重定向 ...]
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+/bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[     2.260092 ] [     2.261067 ] [     2.261105 ] [     2.294544 ] [    23.906629 ] [    23.906691 ] [    23.906706 ] [    23.942795 ] Exiting due to signal.
+[    37.718706 ] [    37.718735 ] [    37.718744 ] [    37.718749 ] [    37.718754 ] [    37.718758 ] [    37.718761 ] [    37.719107 ] [    37.719115 ] [    37.719119 ] [    37.719125 ] [    37.719129 ] [    37.719133 ] [    37.719137 ] [    37.719141 ] [    37.719145 ] [    37.719149 ] [    37.719153 ] [    37.719157 ] [    37.719161 ] [    37.719165 ] [    37.719169 ] [    37.719173 ] [    37.719177 ] [    37.760665 ] [    37.760698 ] [    37.760703 ] [    37.799626 ] [    37.799715 ] [    37.799721 ] [    37.799724 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[    37.855132 ] [    37.870181 ] i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[    37.874435 ] [    37.886607 ] [    37.887377 ] [    37.899285 ] [    41.491880 ] [    41.491937 ] [    41.491953 ] [    41.526413 ] [    84.086988 ] [    84.087023 ] [    84.087029 ] [    84.121977 ] Exiting due to signal.
+[   574.088023 ] [   574.088040 ] [   574.088043 ] [   574.088045 ] [   574.088048 ] [   574.088050 ] [   574.088272 ] [   574.088277 ] [   574.088280 ] [   574.088283 ] [   574.088288 ] [   574.088291 ] [   574.088293 ] [   574.088296 ] [   574.088299 ] [   574.088302 ] [   574.088304 ] [   574.088307 ] [   574.088310 ] [   574.088313 ] [   574.088316 ] [   574.088318 ] [   574.088321 ] [   574.088324 ] [   574.122048 ] [   574.122073 ] [   574.122077 ] [   574.316365 ] [   574.316461 ] [   574.316468 ] [   574.316470 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   574.367153 ] [   574.413997 ] [   574.415883 ] ERROR block_reap:328: [bandwidth] bad exit code 1
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   574.428258 ] [   574.431506 ] [   574.433311 ] [   582.355503 ] [   582.355531 ] [   582.355538 ] [   582.355543 ] [   582.355546 ] [   582.355550 ] [   582.355552 ] [   582.355554 ] [   582.355831 ] [   582.355840 ] [   582.355843 ] [   582.355847 ] [   582.355851 ] [   582.355855 ] [   582.355858 ] [   582.355862 ] [   582.355865 ] [   582.355869 ] [   582.355872 ] [   582.355875 ] [   582.355879 ] [   582.355882 ] [   582.355886 ] [   582.355889 ] [   582.355893 ] [   582.355896 ] [   582.390172 ] [   582.390193 ] [   582.390196 ] [   582.429050 ] [   582.429190 ] [   582.429198 ] [   582.429200 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   582.482719 ] ERROR block_reap:328: [battery] bad exit code 1
+[   582.519735 ] [   582.519790 ] [   582.519989 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   582.525816 ] [   582.551547 ] [   582.897165 ] [   582.897254 ] [   582.897289 ] [   582.897312 ] [   582.897330 ] [   582.897346 ] [   582.897362 ] [   582.897377 ] [   582.898431 ] [   582.898473 ] [   582.898493 ] [   582.898512 ] [   582.898538 ] [   582.898559 ] [   582.898576 ] [   582.898594 ] [   582.898611 ] [   582.898628 ] [   582.898643 ] [   582.898660 ] [   582.898676 ] [   582.898692 ] [   582.898708 ] [   582.898726 ] [   582.898743 ] [   582.898761 ] [   582.937990 ] [   582.938029 ] [   582.938039 ] [   583.010746 ] [   583.010839 ] [   583.010845 ] [   583.010847 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   583.057601 ] [   583.071879 ] [   583.071916 ] [   583.071972 ] [   583.071989 ] [   583.072159 ] ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [bandwidth] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   583.166731 ] [   583.166990 ] [   583.167000 ] [   583.167003 ] [   583.167006 ] [   583.167008 ] [   583.167010 ] [   583.167012 ] [   583.167014 ] [   583.167016 ] [   583.167018 ] [   583.167399 ] [   583.167412 ] [   583.167416 ] [   583.167418 ] [   583.167421 ] [   583.167423 ] [   583.167425 ] [   583.167427 ] [   583.167429 ] [   583.167431 ] [   583.167433 ] [   583.167435 ] [   583.167437 ] [   583.167439 ] [   583.167441 ] [   583.167443 ] [   583.167445 ] [   583.167447 ] [   583.222782 ] [   583.222883 ] [   583.222891 ] [   583.222894 ] /bin/sh: ff-theme-util: 未找到命令
+i3bar: Could not connect to i3 on socket /run/user/1000/i3/ipc-socket.13811: No such file or directory
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   583.303097 ] [   583.303131 ] [   583.303196 ] [   583.303202 ] [   583.303205 ] [   583.303207 ] [   583.303209 ] [   583.303212 ] [   583.303500 ] [   583.303508 ] [   583.303510 ] [   583.303513 ] [   583.303515 ] [   583.303518 ] [   583.303520 ] [   583.303522 ] [   583.303525 ] [   583.303527 ] [   583.303530 ] [   583.303532 ] [   583.303534 ] [   583.303544 ] [   583.303547 ] [   583.303549 ] [   583.303552 ] [   583.377234 ] [   583.377324 ] [   583.377330 ] [   583.377332 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   583.404209 ] [   583.432406 ] [   583.432446 ] [   583.432514 ] [   583.432535 ] [   583.432761 ] ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   591.011502 ] [   591.011525 ] [   591.011529 ] [   591.011531 ] [   591.011534 ] [   591.011536 ] [   591.011538 ] [   591.011819 ] [   591.011824 ] [   591.011826 ] [   591.011828 ] [   591.011831 ] [   591.011834 ] [   591.011836 ] [   591.011838 ] [   591.011840 ] [   591.011842 ] [   591.011844 ] [   591.011847 ] [   591.011849 ] [   591.011858 ] [   591.011860 ] [   591.011863 ] [   591.011865 ] [   591.011867 ] [   591.046607 ] [   591.046643 ] [   591.046646 ] [   591.216940 ] [   591.217047 ] [   591.217058 ] [   591.217060 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   591.261891 ] [   591.295664 ] ERROR block_reap:328: [battery] bad exit code 1
+[   591.299973 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   591.315137 ] [   591.317011 ] [   591.337887 ] [   594.656704 ] [   594.656731 ] [   594.656740 ] [   594.656745 ] [   594.656749 ] [   594.656752 ] [   594.656755 ] [   594.656759 ] [   594.657013 ] [   594.657021 ] [   594.657024 ] [   594.657028 ] [   594.657033 ] [   594.657037 ] [   594.657041 ] [   594.657045 ] [   594.657048 ] [   594.657052 ] [   594.657055 ] [   594.657059 ] [   594.657063 ] [   594.657066 ] [   594.657070 ] [   594.657073 ] [   594.657077 ] [   594.657080 ] [   594.690793 ] [   594.690829 ] [   594.690833 ] [   594.793891 ] [   594.794011 ] [   594.794024 ] [   594.794031 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   594.839445 ] [   594.854626 ] [   594.859365 ] [   594.862264 ] [   594.862300 ] [   594.862516 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   620.613010 ] [   620.613033 ] [   620.613037 ] [   620.613040 ] [   620.613042 ] [   620.613045 ] [   620.613047 ] [   620.613281 ] [   620.613291 ] [   620.613295 ] [   620.613299 ] [   620.613304 ] [   620.613306 ] [   620.613309 ] [   620.613311 ] [   620.613314 ] [   620.613316 ] [   620.613319 ] [   620.613321 ] [   620.613324 ] [   620.613326 ] [   620.613329 ] [   620.613331 ] [   620.613334 ] [   620.613336 ] [   620.671004 ] [   620.671029 ] [   620.671033 ] [   620.703565 ] [   620.703659 ] [   620.703666 ] [   620.703668 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   620.757817 ] [   620.760177 ] [   620.760249 ] [   620.760315 ] [   620.760526 ] [   620.765350 ] [   620.765622 ] [   620.765633 ] ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+
+(pamac-tray:13832): Gdk-CRITICAL **: 17:37:41.686: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[   620.808949 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [battery] bad exit code 1
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   764.926679 ] [   764.926714 ] [   764.926776 ] [   764.926793 ] [   764.926957 ] [   768.034097 ] [   768.034239 ] [   768.034520 ] [   768.034606 ] [   768.034899 ] [   768.034934 ] [   768.034954 ] [   768.069801 ] [   769.170709 ] [   769.170842 ] [   769.170854 ] [   769.170858 ] [   769.170860 ] [   769.170863 ] [   769.170865 ] [   769.170867 ] [   769.170869 ] [   769.170872 ] [   769.170874 ] [   769.171100 ] [   769.171108 ] [   769.171113 ] [   769.171117 ] [   769.171120 ] [   769.171123 ] [   769.171125 ] [   769.171127 ] [   769.171130 ] [   769.171132 ] [   769.171135 ] [   769.171137 ] [   769.171139 ] [   769.171142 ] [   769.171144 ] [   769.171146 ] [   769.171149 ] [   769.171151 ] [   769.209213 ] [   769.209245 ] [   769.209249 ] [   769.248293 ] [   769.248320 ] [   769.248325 ] [   769.248329 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   769.283634 ] [   769.292372 ] [   769.292421 ] [   769.292497 ] [   769.292518 ] [   769.292756 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   799.046578 ] [   799.046642 ] [   799.046650 ] [   799.046654 ] [   799.046657 ] [   799.046660 ] [   799.046662 ] [   799.046664 ] [   799.046666 ] [   799.046669 ] [   799.046671 ] [   799.052242 ] [   799.052271 ] [   799.052276 ] [   799.052281 ] [   799.052286 ] [   799.052290 ] [   799.052295 ] [   799.052299 ] [   799.052303 ] [   799.052307 ] [   799.052313 ] [   799.052317 ] [   799.052322 ] [   799.052326 ] [   799.052331 ] [   799.052335 ] [   799.052339 ] [   799.052343 ] [   799.081381 ] [   799.081419 ] [   799.081424 ] [   799.184001 ] [   799.184023 ] [   799.184027 ] [   799.184029 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   799.225882 ] [   799.254162 ] [   799.254233 ] [   799.254391 ] [   799.254529 ] [   799.255110 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   810.548204 ] [   810.548280 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[13843:13981:1208/174105.186842:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13843:13981:1208/174109.220244:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13843:13981:1208/174109.489672:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   874.332467 ] [   874.892461 ] [   874.892503 ] [   874.892522 ] [   874.892541 ] [   874.892561 ] [   874.892580 ] [   874.892598 ] [   874.892632 ] [   874.892650 ] [   874.892680 ] [   874.892713 ] [   874.892730 ] [   874.892746 ] [   874.892762 ] [   874.892778 ] [   874.892794 ] [   874.892810 ] [   874.892839 ] [   874.892858 ] [   874.892888 ] [   874.896019 ] [   874.896035 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   887.094674 ] [   887.094704 ] [   887.094710 ] [   887.094714 ] [   887.094717 ] [   887.094719 ] [   887.094722 ] [   887.094724 ] [   887.094726 ] [   887.094728 ] [   887.094731 ] [   887.094941 ] [   887.094947 ] [   887.094950 ] [   887.094952 ] [   887.094955 ] [   887.094957 ] [   887.094959 ] [   887.094962 ] [   887.094964 ] [   887.094966 ] [   887.094969 ] [   887.094971 ] [   887.094973 ] [   887.094976 ] [   887.094978 ] [   887.094981 ] [   887.094984 ] [   887.094986 ] [   887.131128 ] [   887.131160 ] [   887.131164 ] /bin/sh: ff-theme-util: 未找到命令
+[   887.188171 ] [   887.188204 ] [   887.196001 ] [   887.196025 ] [   887.196374 ] [   887.196392 ] [   887.196399 ] [   887.196405 ] parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   887.198007 ] [   887.206823 ] [   887.206908 ] [   887.207008 ] [   887.207040 ] [   887.207241 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   898.499931 ] [   898.499956 ] [   898.499961 ] [   898.499965 ] [   898.499967 ] [   898.499970 ] [   898.499972 ] [   898.499974 ] [   898.499976 ] [   898.499979 ] [   898.499981 ] [   898.500192 ] [   898.500198 ] [   898.500201 ] [   898.500203 ] [   898.500205 ] [   898.500208 ] [   898.500210 ] [   898.500212 ] [   898.500215 ] [   898.500217 ] [   898.500219 ] [   898.500222 ] [   898.500224 ] [   898.500226 ] [   898.500229 ] [   898.500231 ] [   898.500233 ] [   898.500236 ] [   898.534370 ] [   898.534399 ] [   898.534403 ] [   898.600654 ] [   898.600682 ] [   898.600687 ] [   898.600691 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   898.639999 ] [   898.648337 ] [   898.648374 ] [   898.648441 ] [   898.648461 ] [   898.648666 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   909.398901 ] [   909.398929 ] [   909.398935 ] [   909.398940 ] [   909.398942 ] [   909.398945 ] [   909.398948 ] [   909.398950 ] [   909.398953 ] [   909.398955 ] [   909.398958 ] [   909.399228 ] [   909.399233 ] [   909.399236 ] [   909.399239 ] [   909.399242 ] [   909.399245 ] [   909.399247 ] [   909.399250 ] [   909.399253 ] [   909.399255 ] [   909.399258 ] [   909.399261 ] [   909.399264 ] [   909.399266 ] [   909.399269 ] [   909.399272 ] [   909.399274 ] [   909.432739 ] [   909.432779 ] [   909.432782 ] [   909.530351 ] [   909.530388 ] [   909.530392 ] [   909.530394 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[   909.564210 ] [   909.572656 ] [   909.572707 ] [   909.572775 ] [   909.572794 ] [   909.572996 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   910.716807 ] [   910.716880 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[13843:13981:1208/174244.302456:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+[13843:13981:1208/174244.302585:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+[13843:13981:1208/174245.457433:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+[13843:13981:1208/174245.457516:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+[13843:13981:1208/174247.610050:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+[13843:13981:1208/174247.610074:ERROR:socket_manager.cc(110)] Failed to resolve address for x., errorcode: -105
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[13843:13981:1208/174338.174382:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13843:13981:1208/174339.339442:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[   992.752297 ] [   994.463943 ] [13843:13981:1208/174357.466053:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13843:13981:1208/174359.434384:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1023.689035 ] [  1023.689546 ] [  1023.689590 ] [  1023.689604 ] [  1023.689616 ] [  1023.715312 ] [  1025.100444 ] [  1025.775023 ] [  1025.775222 ] [  1025.775346 ] [  1025.775439 ] [  1025.775516 ] [  1025.775604 ] [  1025.775720 ] [  1025.775864 ] [  1025.775968 ] [  1025.776118 ] [  1025.776271 ] [  1025.776345 ] [  1025.776417 ] [  1025.776491 ] [  1025.776567 ] [  1025.776642 ] [  1025.779941 ] [  1025.780069 ] [  1025.780142 ] [  1025.780257 ] [  1025.780685 ] [  1025.780718 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1036.551367 ] [  1036.551395 ] [  1036.551401 ] [  1036.551405 ] [  1036.551407 ] [  1036.551410 ] [  1036.551412 ] [  1036.551415 ] [  1036.551417 ] [  1036.551420 ] [  1036.551422 ] [  1036.551672 ] [  1036.551677 ] [  1036.551680 ] [  1036.551682 ] [  1036.551685 ] [  1036.551687 ] [  1036.551690 ] [  1036.551692 ] [  1036.551695 ] [  1036.551697 ] [  1036.551700 ] [  1036.551702 ] [  1036.551705 ] [  1036.551707 ] [  1036.551710 ] [  1036.551712 ] [  1036.551715 ] [  1036.606283 ] [  1036.606309 ] [  1036.606314 ] [  1036.641080 ] [  1036.641153 ] [  1036.641159 ] [  1036.641162 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1036.678008 ] [  1036.688701 ] [  1036.688755 ] [  1036.688846 ] [  1036.688868 ] [  1036.689080 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1040.057833 ] [  1040.057862 ] [  1040.057868 ] [  1040.057872 ] [  1040.057875 ] [  1040.057878 ] [  1040.057881 ] [  1040.057883 ] [  1040.057885 ] [  1040.057888 ] [  1040.057890 ] [  1040.058141 ] [  1040.058150 ] [  1040.058155 ] [  1040.058159 ] [  1040.058162 ] [  1040.058165 ] [  1040.058167 ] [  1040.058170 ] [  1040.058172 ] [  1040.058175 ] [  1040.058177 ] [  1040.058180 ] [  1040.058182 ] [  1040.058184 ] [  1040.058187 ] [  1040.058189 ] [  1040.058192 ] [  1040.097435 ] [  1040.097465 ] [  1040.097468 ] [  1040.136982 ] [  1040.137011 ] [  1040.137015 ] [  1040.137017 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1040.173010 ] [  1040.181614 ] [  1040.181660 ] [  1040.181726 ] [  1040.181745 ] [  1040.181952 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1043.213795 ] [  1043.247234 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1050.236524 ] [  1055.153114 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1066.276573 ] [  1066.276609 ] [  1066.276618 ] [  1066.276625 ] [  1066.276629 ] [  1066.276634 ] [  1066.276638 ] [  1066.276643 ] [  1066.277017 ] [  1066.277027 ] [  1066.277031 ] [  1066.277036 ] [  1066.277041 ] [  1066.277046 ] [  1066.277050 ] [  1066.277054 ] [  1066.277059 ] [  1066.277063 ] [  1066.277067 ] [  1066.277071 ] [  1066.277076 ] [  1066.277080 ] [  1066.277084 ] [  1066.277088 ] [  1066.277093 ] [  1066.277097 ] [  1066.277101 ] [  1066.310355 ] [  1066.310388 ] [  1066.310392 ] [  1066.399773 ] [  1066.399811 ] [  1066.399816 ] [  1066.399820 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1066.433248 ] [  1066.445776 ] [  1066.445822 ] [  1066.445908 ] [  1066.445932 ] [  1066.446226 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1069.299592 ] [  1069.299621 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1093.473590 ] [  1093.734458 ] [  1093.765629 ] [  1093.765820 ] [  1093.765921 ] [  1093.766105 ] [  1093.766236 ] [  1093.766316 ] [  1093.766390 ] [  1093.766520 ] [  1093.766589 ] [  1093.766706 ] [  1093.769771 ] [  1093.769803 ] [  1093.769822 ] [  1093.769840 ] [  1093.769859 ] [  1093.769877 ] [  1093.769895 ] [  1093.769925 ] [  1093.769943 ] [  1093.769978 ] [  1093.770096 ] [  1093.770103 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1100.583854 ] [  1100.583888 ] [  1100.583896 ] [  1100.583901 ] [  1100.583905 ] [  1100.583909 ] [  1100.583912 ] [  1100.583916 ] [  1100.584185 ] [  1100.584196 ] [  1100.584200 ] [  1100.584204 ] [  1100.584210 ] [  1100.584214 ] [  1100.584218 ] [  1100.584222 ] [  1100.584227 ] [  1100.584231 ] [  1100.584235 ] [  1100.584239 ] [  1100.584242 ] [  1100.584246 ] [  1100.584250 ] [  1100.584254 ] [  1100.584258 ] [  1100.584262 ] [  1100.584266 ] [  1100.584270 ] [  1100.617494 ] [  1100.617530 ] [  1100.617533 ] [  1100.705489 ] [  1100.705519 ] /bin/sh: ff-theme-util: 未找到命令
+[  1100.713880 ] [  1100.713906 ] parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1100.732887 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1100.788865 ] [  1100.788945 ] [  1100.789333 ] [  1100.789361 ] [  1100.790139 ] [  1108.495445 ] [  1108.495465 ] [  1108.495471 ] [  1108.495474 ] [  1108.495477 ] [  1108.495479 ] [  1108.495481 ] [  1108.495484 ] [  1108.495710 ] [  1108.495714 ] [  1108.495717 ] [  1108.495719 ] [  1108.495722 ] [  1108.495724 ] [  1108.495727 ] [  1108.495729 ] [  1108.495731 ] [  1108.495734 ] [  1108.495736 ] [  1108.495739 ] [  1108.495741 ] [  1108.495743 ] [  1108.495746 ] [  1108.495748 ] [  1108.495751 ] [  1108.495753 ] [  1108.495755 ] [  1108.495758 ] [  1108.529613 ] [  1108.529647 ] [  1108.529652 ] [  1108.668336 ] [  1108.668365 ] [  1108.668370 ] [  1108.668374 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1108.700013 ] [  1108.709127 ] [  1108.709172 ] [  1108.709233 ] [  1108.709251 ] [  1108.709465 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1116.242849 ] [  1116.242871 ] [  1116.242876 ] [  1116.242880 ] [  1116.242882 ] [  1116.242884 ] [  1116.242886 ] [  1116.242889 ] [  1116.243139 ] [  1116.243145 ] [  1116.243147 ] [  1116.243149 ] [  1116.243152 ] [  1116.243154 ] [  1116.243156 ] [  1116.243158 ] [  1116.243161 ] [  1116.243163 ] [  1116.243165 ] [  1116.243167 ] [  1116.243169 ] [  1116.243172 ] [  1116.243174 ] [  1116.243176 ] [  1116.243178 ] [  1116.243180 ] [  1116.243183 ] [  1116.243185 ] [  1116.276786 ] [  1116.276827 ] [  1116.276831 ] [  1116.319183 ] [  1116.319251 ] [  1116.319256 ] [  1116.319259 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1116.349989 ] [  1116.358736 ] [  1116.358780 ] [  1116.358842 ] [  1116.358860 ] [  1116.359064 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1123.368175 ] [  1123.368219 ] [  1123.368228 ] [  1123.368234 ] [  1123.368238 ] [  1123.368242 ] [  1123.368245 ] [  1123.368249 ] [  1123.368253 ] [  1123.368256 ] [  1123.368259 ] [  1123.368537 ] [  1123.368546 ] [  1123.368550 ] [  1123.368554 ] [  1123.368558 ] [  1123.368562 ] [  1123.368565 ] [  1123.368569 ] [  1123.368573 ] [  1123.368577 ] [  1123.368580 ] [  1123.368584 ] [  1123.368588 ] [  1123.368591 ] [  1123.368595 ] [  1123.368599 ] [  1123.368603 ] [  1123.403558 ] [  1123.403590 ] [  1123.403595 ] [  1123.462624 ] [  1123.462664 ] [  1123.462671 ] [  1123.462675 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1123.499999 ] [  1123.508608 ] [  1123.508646 ] [  1123.508698 ] [  1123.508715 ] [  1123.508883 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1130.070697 ] [  1130.070724 ] [  1130.070732 ] [  1130.070738 ] [  1130.070742 ] [  1130.070746 ] [  1130.070750 ] [  1130.070753 ] [  1130.070757 ] [  1130.070761 ] [  1130.070764 ] [  1130.070983 ] [  1130.070990 ] [  1130.070994 ] [  1130.070998 ] [  1130.071002 ] [  1130.071005 ] [  1130.071008 ] [  1130.071012 ] [  1130.071015 ] [  1130.071019 ] [  1130.071023 ] [  1130.071027 ] [  1130.071031 ] [  1130.071034 ] [  1130.071037 ] [  1130.071041 ] [  1130.071044 ] [  1130.105226 ] [  1130.105265 ] [  1130.105271 ] [  1130.262805 ] [  1130.262833 ] [  1130.262839 ] [  1130.262862 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1130.288331 ] [  1130.296383 ] [  1130.296426 ] [  1130.296489 ] [  1130.296508 ] [  1130.296708 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1138.074449 ] [  1138.074471 ] [  1138.074476 ] [  1138.074480 ] [  1138.074482 ] [  1138.074485 ] [  1138.074487 ] [  1138.074490 ] [  1138.074753 ] [  1138.074764 ] [  1138.074768 ] [  1138.074772 ] [  1138.074777 ] [  1138.074782 ] [  1138.074785 ] [  1138.074789 ] [  1138.074793 ] [  1138.074797 ] [  1138.074802 ] [  1138.074806 ] [  1138.074810 ] [  1138.074814 ] [  1138.074818 ] [  1138.074822 ] [  1138.074827 ] [  1138.074831 ] [  1138.074836 ] [  1138.074840 ] [  1138.109321 ] [  1138.109351 ] [  1138.109356 ] [  1138.256230 ] [  1138.256262 ] [  1138.256267 ] [  1138.256271 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1138.287597 ] [  1138.295951 ] [  1138.295992 ] [  1138.296049 ] [  1138.296068 ] [  1138.296237 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1151.573525 ] [  1151.573549 ] [  1151.573555 ] [  1151.573559 ] [  1151.573561 ] [  1151.573564 ] [  1151.573567 ] [  1151.573569 ] [  1151.573572 ] [  1151.573574 ] [  1151.573577 ] [  1151.573805 ] [  1151.573810 ] [  1151.573813 ] [  1151.573816 ] [  1151.573819 ] [  1151.573822 ] [  1151.573825 ] [  1151.573827 ] [  1151.573830 ] [  1151.573833 ] [  1151.573835 ] [  1151.573838 ] [  1151.573840 ] [  1151.573843 ] [  1151.573846 ] [  1151.573848 ] [  1151.573851 ] [  1151.608106 ] [  1151.608134 ] [  1151.608137 ] [  1151.761924 ] [  1151.761954 ] [  1151.761959 ] [  1151.761963 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1151.796961 ] [  1151.805548 ] [  1151.805596 ] [  1151.805673 ] [  1151.805691 ] [  1151.805889 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1158.572526 ] [  1158.572560 ] [  1158.572569 ] [  1158.572575 ] [  1158.572580 ] [  1158.572584 ] [  1158.572588 ] [  1158.572605 ] [  1158.572610 ] [  1158.572614 ] [  1158.572618 ] [  1158.572909 ] [  1158.572920 ] [  1158.572925 ] [  1158.572930 ] [  1158.572934 ] [  1158.572939 ] [  1158.572943 ] [  1158.572947 ] [  1158.572951 ] [  1158.572955 ] [  1158.572961 ] [  1158.572965 ] [  1158.572969 ] [  1158.572973 ] [  1158.572977 ] [  1158.572981 ] [  1158.572986 ] [  1158.606765 ] [  1158.606800 ] [  1158.606804 ] [  1158.653253 ] [  1158.653285 ] [  1158.653290 ] [  1158.653294 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1158.687493 ] [  1158.695700 ] [  1158.695732 ] [  1158.695800 ] [  1158.695821 ] [  1158.695993 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1159.908353 ] [  1159.908384 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1195.695629 ] [  1196.074799 ] [  1196.074854 ] [  1196.074881 ] [  1196.074899 ] [  1196.074914 ] [  1196.074928 ] [  1196.074944 ] [  1196.074969 ] [  1196.074984 ] [  1196.075011 ] [  1196.075043 ] [  1196.075059 ] [  1196.075076 ] [  1196.075091 ] [  1196.075105 ] [  1196.078483 ] [  1196.078505 ] [  1196.078534 ] [  1196.078550 ] [  1196.078579 ] [  1196.078688 ] [  1196.078693 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1206.178986 ] [  1206.179011 ] [  1206.179017 ] [  1206.179021 ] [  1206.179023 ] [  1206.179026 ] [  1206.179028 ] [  1206.179030 ] [  1206.179288 ] [  1206.179295 ] [  1206.179297 ] [  1206.179300 ] [  1206.179303 ] [  1206.179305 ] [  1206.179307 ] [  1206.179310 ] [  1206.179312 ] [  1206.179315 ] [  1206.179317 ] [  1206.179319 ] [  1206.179322 ] [  1206.179324 ] [  1206.179326 ] [  1206.179329 ] [  1206.179331 ] [  1206.179333 ] [  1206.179336 ] [  1206.179338 ] [  1206.224195 ] [  1206.224233 ] [  1206.224239 ] /bin/sh: ff-theme-util: 未找到命令
+[  1206.270260 ] [  1206.270543 ] [  1206.278215 ] [  1206.278777 ] parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+[  1206.279943 ] [  1206.279960 ] [  1206.280038 ] [  1206.280070 ] [  1206.280076 ] [  1206.280080 ] [  1206.280085 ] [  1206.280089 ] Another composite manager is already running
+[  1206.280550 ] [  1206.280569 ] [  1206.280573 ] [  1206.280577 ] [  1206.281512 ] [  1206.293574 ] [  1206.293672 ] [  1206.293878 ] [  1206.293903 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1221.438678 ] [  1221.438708 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1269.042753 ] [  1269.658301 ] [  1269.658693 ] [  1269.678335 ] [  1269.678484 ] [  1269.678649 ] [  1269.678813 ] [  1269.678978 ] [  1269.679147 ] [  1269.679175 ] [  1269.679220 ] [  1269.679283 ] [  1269.679306 ] [  1269.679325 ] [  1269.679344 ] [  1269.679363 ] [  1269.679382 ] [  1269.679401 ] [  1269.679435 ] [  1269.679454 ] [  1269.679487 ] [  1269.679596 ] [  1269.679627 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1286.779385 ] [  1286.779407 ] [  1286.779412 ] [  1286.779416 ] [  1286.779419 ] [  1286.779421 ] [  1286.779423 ] [  1286.779425 ] [  1286.785714 ] [  1286.785742 ] [  1286.785745 ] [  1286.785748 ] [  1286.785754 ] [  1286.785757 ] [  1286.785760 ] [  1286.785763 ] [  1286.785765 ] [  1286.785768 ] [  1286.785771 ] [  1286.785773 ] [  1286.785776 ] [  1286.785779 ] [  1286.785782 ] [  1286.785785 ] [  1286.785787 ] [  1286.785790 ] [  1286.785793 ] [  1286.785796 ] [  1286.813619 ] [  1286.813648 ] [  1286.813652 ] /bin/sh: ff-theme-util: 未找到命令
+[  1286.913542 ] [  1286.913611 ] [  1286.913653 ] [  1286.913691 ] [  1286.913709 ] [  1286.913737 ] [  1286.913774 ] [  1286.913805 ] [  1286.913833 ] [  1286.913851 ] [  1286.913901 ] [  1286.913924 ] [  1286.916407 ] [  1286.916555 ] parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+[  1286.927006 ] [  1286.927084 ] [  1286.927688 ] [  1286.927696 ] [  1286.927701 ] [  1286.927705 ] [  1286.927741 ] [  1286.927746 ] [  1286.927751 ] [  1286.927755 ] [  1286.927759 ] [  1286.927762 ] Another composite manager is already running
+[  1286.928049 ] [  1286.928059 ] [  1286.928064 ] [  1286.928068 ] [  1286.929292 ] [  1286.937182 ] [  1286.937214 ] [  1286.937371 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1292.958857 ] [  1292.958880 ] [  1292.958886 ] [  1292.958890 ] [  1292.958893 ] [  1292.958896 ] [  1292.958899 ] [  1292.958901 ] [  1292.958904 ] [  1292.958907 ] [  1292.959195 ] [  1292.959203 ] [  1292.959207 ] [  1292.959211 ] [  1292.959214 ] [  1292.959217 ] [  1292.959220 ] [  1292.959222 ] [  1292.959224 ] [  1292.959227 ] [  1292.959229 ] [  1292.959232 ] [  1292.959234 ] [  1292.959236 ] [  1292.959239 ] [  1292.959241 ] [  1292.992635 ] [  1292.992675 ] [  1292.992679 ] [  1293.063929 ] [  1293.063953 ] [  1293.063957 ] [  1293.063960 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1293.098867 ] [  1293.107859 ] [  1293.107901 ] [  1293.107975 ] [  1293.107996 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1294.461122 ] [  1294.461143 ] [  1295.278756 ] [  1295.278900 ] [  1295.279005 ] [  1295.279118 ] [  1295.279215 ] [  1295.279337 ] [  1295.279415 ] [  1295.279530 ] [  1295.279594 ] [  1295.279712 ] [  1295.279849 ] [  1295.279915 ] [  1295.279980 ] [  1295.280043 ] [  1295.283362 ] [  1295.283438 ] [  1295.283502 ] [  1295.283613 ] [  1295.283678 ] [  1295.283793 ] [  1295.284212 ] [  1295.284234 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1364.829294 ] [  1364.829316 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1544.655173 ] [  1544.655319 ] [  1544.658875 ] [  1544.660161 ] [  1544.660273 ] [  1544.660344 ] [  1544.660483 ] [  1544.660754 ] [  1544.660892 ] [  1544.661112 ] [  1544.661307 ] [  1544.662915 ] [  1544.662940 ] [  1544.662960 ] [  1544.662979 ] [  1544.662999 ] [  1544.663019 ] [  1544.663050 ] [  1544.663064 ] [  1544.663088 ] [  1544.663165 ] [  1544.663186 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1573.578147 ] [  1573.578166 ] [  1573.578171 ] [  1573.578174 ] [  1573.578176 ] [  1573.578179 ] [  1573.578181 ] [  1573.578183 ] [  1573.578186 ] [  1573.578188 ] [  1573.578190 ] [  1573.578408 ] [  1573.578413 ] [  1573.578416 ] [  1573.578418 ] [  1573.578420 ] [  1573.578423 ] [  1573.578425 ] [  1573.578428 ] [  1573.578430 ] [  1573.578432 ] [  1573.578435 ] [  1573.578437 ] [  1573.578439 ] [  1573.578441 ] [  1573.578444 ] [  1573.578446 ] [  1573.578449 ] [  1573.628774 ] [  1573.628794 ] [  1573.628797 ] [  1573.661456 ] [  1573.661578 ] [  1573.661585 ] [  1573.661589 ] /bin/sh: ff-theme-util: 未找到命令
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1573.689796 ] [  1573.698562 ] [  1573.698603 ] [  1573.698677 ] [  1573.698700 ] [  1573.698891 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1574.951031 ] [  1574.951097 ] [  1574.951111 ] [  1574.984695 ] [  1583.026154 ] [  1583.026225 ] [  1583.026240 ] [  1583.061000 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1589.490269 ] [  1589.490289 ] [  1589.490294 ] [  1589.490297 ] [  1589.490300 ] [  1589.490302 ] [  1589.490304 ] [  1589.490306 ] [  1589.490309 ] [  1589.490311 ] [  1589.490313 ] [  1589.490548 ] [  1589.490556 ] [  1589.490560 ] [  1589.490564 ] [  1589.490568 ] [  1589.490571 ] [  1589.490575 ] [  1589.490579 ] [  1589.490583 ] [  1589.490587 ] [  1589.490590 ] [  1589.490594 ] [  1589.490597 ] [  1589.490601 ] [  1589.490605 ] [  1589.490608 ] [  1589.490612 ] [  1589.525325 ] [  1589.525346 ] [  1589.525350 ] /bin/sh: ff-theme-util: 未找到命令
+[  1589.657137 ] [  1589.657365 ] [  1589.657420 ] [  1589.657568 ] [  1589.665434 ] [  1589.665451 ] [  1589.665456 ] [  1589.665461 ] parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+Another composite manager is already running
+[  1589.666960 ] [  1589.681008 ] [  1589.681051 ] [  1589.681120 ] [  1589.681140 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1590.553883 ] [  1590.553948 ] [  1590.553963 ] [  1590.588127 ] [  1592.473632 ] [  1592.473661 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1729.923860 ] [  1729.924042 ] [  1729.924247 ] [  1729.927855 ] [  1729.929109 ] [  1729.929306 ] [  1729.929493 ] [  1729.929724 ] [  1729.929897 ] [  1729.930094 ] [  1729.930338 ] [  1729.930352 ] [  1729.930366 ] [  1729.930379 ] [  1729.930396 ] [  1729.930412 ] [  1729.930427 ] [  1729.931893 ] [  1729.931959 ] [  1729.932032 ] [  1729.932169 ] [  1729.932199 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1749.445756 ] [  1749.445788 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1758.048718 ] [  1758.599921 ] [  1758.600069 ] [  1758.600189 ] [  1758.600335 ] [  1758.600470 ] [  1758.600615 ] [  1758.600905 ] [  1758.601137 ] [  1758.603098 ] [  1758.609727 ] [  1758.609883 ] [  1758.609979 ] [  1758.610059 ] [  1758.610125 ] [  1758.610148 ] [  1758.610167 ] [  1758.610186 ] [  1758.610217 ] [  1758.610234 ] [  1758.610265 ] [  1758.610366 ] [  1758.610399 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1777.808972 ] [  1777.808997 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1781.612020 ] [  1781.612197 ] [  1781.612355 ] [  1781.612505 ] [  1781.612647 ] [  1781.612769 ] [  1781.612875 ] [  1781.613041 ] [  1781.613134 ] [  1781.619453 ] [  1781.624521 ] [  1781.624558 ] [  1781.624586 ] [  1781.624620 ] [  1781.624686 ] [  1781.624751 ] [  1781.624781 ] [  1781.624815 ] [  1781.624833 ] [  1781.624866 ] [  1781.624969 ] [  1781.624999 ] [  1784.442386 ] [  1784.442449 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+[  1806.691580 ] [  1806.691624 ] [  1806.691646 ] [  1806.691666 ] [  1806.691686 ] [  1806.691704 ] [  1806.691723 ] [  1806.691756 ] [  1806.691776 ] [  1806.691809 ] [  1806.692372 ] [  1806.698092 ] [  1806.702448 ] [  1806.703680 ] [  1806.703715 ] [  1806.703752 ] [  1806.703824 ] [  1806.703959 ] [  1806.703998 ] [  1806.704080 ] [  1806.704203 ] [  1806.704236 ] ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
+ERROR block_reap:328: [cpu_usage] bad exit code 2
