@@ -1,5 +1,5 @@
 # theme config
-yay -S lxappearence
+yay -S lxappearance
 
 
 
